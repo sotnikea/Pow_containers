@@ -1,0 +1,4 @@
+C:\Users\Zhe\source\repos\_8_vse_v_kvadrat\Debug\_8_vse_v_kvadrat.exe
+C:\Users\Zhe\source\repos\_8_vse_v_kvadrat\Debug\_8_vse_v_kvadrat.pdb
+E:\PROJECTS\c++\Corusera\yellow\Week 1\_8_vse_v_kvadrat\Debug\_8_vse_v_kvadrat.exe
+E:\PROJECTS\c++\Corusera\yellow\Week 1\_8_vse_v_kvadrat\Debug\_8_vse_v_kvadrat.pdb
